@@ -1,0 +1,1 @@
+int main(void) {return 0;} //stub to get makefile working
