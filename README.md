@@ -39,8 +39,6 @@ The first milestone is not a complete engine. Planned progression:
 8. Load one project-defined mesh
 9. Add a camera
 10. Play one audio file
-11. Establish a reliable musical timeline
-12. Prototype one short partnered dance sequence
 
 Anything beyond these milestones is treated as future work until explicitly
 selected.
